@@ -12,4 +12,4 @@ Please Help me write the source code to:
 
 2) Place this info in a Mysqli database
 
-3)Search and Display info from the database
+3) Search and Display info from the database

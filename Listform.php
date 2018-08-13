@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['formid']) && $_POST['f
 	$error = '';
 	$dbhost = 'localhost';
 	$dbuser = 'rmidwdnr_Dewaal';
-	$dbpass = 'Loandi123';
+	$dbpass = '*********';
 	$dbname = "rmidwdnr_list01";
 	$eol = "\n";
 	$boundary = md5(uniqid(time()));
